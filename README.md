@@ -4,8 +4,7 @@ I am pursuing a Bachelor’s Degree in Computer Science from the University of N
 
 ### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+My name is Nimra Sami, I am a first-year student at the University of North Carolina at Greensboro. I am seeking to earn a Bachelor’s Degree in Computer Science. In the future, I plan on pursuing a career in the field of software development, eventually furthering my education with a Master’s degree in Software Engineering. 
 ```markdown
 Syntax highlighted code block
 
