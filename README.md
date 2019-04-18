@@ -10,19 +10,23 @@ My name is Nimra Sami, I am a first-year student at the University of North Caro
 ### Projects
 ```markdown
 Project One 
-# Header 1
-## Header 2
-### Header 3
+public class projectone {
 
-- Bulleted
-- List
+    public static int Stringlength(String stg) {
 
-1. Numbered
-2. List
+        if (stg.equals("")) {
+            return 0;
+        } else {
+            return Stringlength(stg.substring(1)) + 1;
+        }
+    }
+    
+    public static void main(String[] args) {
+        String stg = "Nimra Sami";
+        System.out.println(Stringlength(stg));
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    }
+}
 
 Project Two 
 # Header 1
