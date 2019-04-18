@@ -9,8 +9,9 @@ My name is Nimra Sami, I am a first-year student at the University of North Caro
 
 ### Projects
 ```markdown
-Project One: Write a program to print your name on console screen. Note:Your program needs to have a 
-method that takes any arbitrary string as a a parameter and print it.
+Project One: Write a program to print your name on console screen. 
+Note:Your program needs to have a method that takes any arbitrary 
+string as a a parameter and print it.
 
 Project One
 public class projectone {
@@ -30,7 +31,8 @@ public class projectone {
 ```
 
 ```markdown
-Project Two: Write a recursive program to find the length of a string. You should not use length method. 
+Project Two: Write a recursive program to find the length of a string. 
+You should not use length method. 
 
 Project Two 
 public class projecttwo {
@@ -53,10 +55,13 @@ public class projecttwo {
 ```
 
 ```markdown
-Project Three:Method reverse shown below returns the reverse of a String. String reverse( String str )
+Project Three:Method reverse shown below returns the reverse of a String. 
+String reverse( String str )
 
-Implement reverse recursively. Do not worry about the inefficiency of string concatenation.
-Implement reverse by having reverse be the driver for a private recursive routine. 
+Implement reverse recursively. Do not worry about the inefficiency 
+of string concatenation.
+Implement reverse by having reverse be the driver for a private 
+recursive routine. 
 reverse will create a StringBuffer and pass it to the recursive routine.
 
 Project Three
