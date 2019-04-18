@@ -9,6 +9,8 @@ My name is Nimra Sami, I am a first-year student at the University of North Caro
 
 ### Projects
 ```markdown
+Project One: Write a program to print your name on console screen. Note:Your program needs to have a method that takes any arbitrary string as a a parameter and print it.
+
 Project One
 public class projectone {
 
