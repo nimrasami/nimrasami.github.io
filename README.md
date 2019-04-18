@@ -10,6 +10,7 @@ My name is Nimra Sami, I am a first-year student at the University of North Caro
 ### Projects
 ```markdown
 Project One 
+
 public class projectone {
 
     public static int Stringlength(String stg) {
@@ -29,19 +30,28 @@ public class projectone {
 }
 
 Project Two 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+public class projecttwo  {
 
-1. Numbered
-2. List
+    public static boolean palindrome(String stg, int left, int right) {
+        if (left > right) {
+            return true;
+        } else if (stg.charAt(right) != stg.charAt(left)) {
+            return false;
+        } else {
+            return palindrome(stg, left + 1, right - 1);
+        }
+    }
 
-**Bold** and _Italic_ and `Code` text
+    public static void main(String[] args) {
+        String stg = "nimra";
+        System.out.println(palindrome(stg, 0, stg.length() - 1));
 
-[Link](url) and ![Image](src)
+        String str = "qazplm";
+        System.out.println(palindrome(str, 0, str.length() - 1));
+    }
+}
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
