@@ -112,7 +112,9 @@ file:///C:/Users/Nimra/OneDrive/Documents/Resume/Resume%20PDF.pdf
 
 ### Contact
 email: nimrasami@icloud.com
+
 Number: (336) 848-9654
+
 Linkedin: linkedin.com/in/nimra-sami-14134a174
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
