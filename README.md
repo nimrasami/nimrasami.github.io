@@ -1,7 +1,7 @@
 ## Welcome to Nimra's webpage
 I am pursuing a Bachelor’s Degree in Computer Science from the University of North Carolina at Greensboro. My career aspiration is to work in the field of software development. I am seeking different opportunities to prepare me for the field of Computer Science. 
 
-![Image of Yaktocat](https://www.icloud.com/photos/#0rYKoQ3Gf8bHRJH8NdyU97CMg)
+![Image of me](https://www.icloud.com/photos/#0rYKoQ3Gf8bHRJH8NdyU97CMg)
 
 ### About Me
 
