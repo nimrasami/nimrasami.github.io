@@ -5,6 +5,8 @@ I am pursuing a Bachelor’s Degree in Computer Science from the University of N
 ### About Me
 
 My name is Nimra Sami, I am a first-year student at the University of North Carolina at Greensboro. I am a Computer Scince major and a Math minor. I am seeking to earn a Bachelor’s Degree in Computer Science. In the future, I plan on pursuing a career in the field of software development, eventually furthering my education with a Master’s degree in Software Engineering. 
+
+### Projects
 ```markdown
 Project 
 # Header 1
