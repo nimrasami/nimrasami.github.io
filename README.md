@@ -9,9 +9,27 @@ My name is Nimra Sami, I am a first-year student at the University of North Caro
 
 ### Projects
 ```markdown
-Project One 
-
+Project One
 public class projectone {
+
+    public static void main(String[] args) {
+ 
+        System.out.println("My name is Nimra Sami");
+        String userstr = "name";
+        print(userstr);
+    }
+    public static void print(String str) {
+
+        System.out.println("Arbitrary string is: " + str);
+        
+    }
+}
+```
+
+```markdown
+Project Two 
+
+public class projecttwo {
 
     public static int Stringlength(String stg) {
 
@@ -28,10 +46,12 @@ public class projectone {
 
     }
 }
+```
 
-Project Two 
+```markdown
+Project Three 
 
-public class projecttwo  {
+public class projectthree  {
 
     public static boolean palindrome(String stg, int left, int right) {
         if (left > right) {
@@ -53,6 +73,8 @@ public class projecttwo  {
 }
 
 ```
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
