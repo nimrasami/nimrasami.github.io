@@ -1,7 +1,7 @@
 ## Welcome to Nimra's webpage
 I am pursuing a Bachelor’s Degree in Computer Science from the University of North Carolina at Greensboro. My career aspiration is to work in the field of software development. I am seeking different opportunities to prepare me for the field of Computer Science. 
 
-![GitHub Logo](/images/logo.png)
+
 
 ### About Me
 
@@ -111,6 +111,8 @@ My Resume:
 file:///C:/Users/Nimra/OneDrive/Documents/Resume/Resume%20PDF.pdf
 
 ### Contact
-
+email: nimrasami@icloud.com
+Number: (336) 848-9654
+Linkedin: linkedin.com/in/nimra-sami-14134a174
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
