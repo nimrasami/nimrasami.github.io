@@ -107,7 +107,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Resume 
 My Resume:
-file:///C:/Users/Nimra/OneDrive/Documents/Resume/Resume%20PDF.pdf
+<img src="https://raw.githubusercontent.com/nimrasami/nimrasami.github.io/master/Resume.png" alt="Resume.png"/>
 
 ### Contact
 email: nimrasami@icloud.com
