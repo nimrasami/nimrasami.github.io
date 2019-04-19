@@ -101,12 +101,7 @@ public class projectthree {
 
 ```
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Resume 
-My Resume:
 <img src="https://raw.githubusercontent.com/nimrasami/nimrasami.github.io/master/Resume.png" alt="Resume.png"/>
 
 ### Contact
@@ -116,4 +111,3 @@ Number: (336) 848-9654
 
 Linkedin: linkedin.com/in/nimra-sami-14134a174
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
